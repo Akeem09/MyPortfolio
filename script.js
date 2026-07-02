@@ -72,12 +72,13 @@ window.addEventListener('scroll', () => {
 // ============================================================
 const typingEl = document.getElementById('typingText');
 const roles = [
-  'Business Analyst',
-  'Requirements Engineer',
+  'Business Analyst/Consultant',
+  'AI-Assisted Process Optimizer'
+  'ServiceNow Developer',
   'ServiceNow CSA & CAD Certified',
+  'Requirements Engineer',
   'Agile & Waterfall Practitioner',
   'UAT & Traceability Specialist',
-  'AI-Assisted Process Optimizer'
 ];
 
 if (typingEl) {

@@ -70,15 +70,18 @@ window.addEventListener('scroll', () => {
 // ============================================================
 // Typing effect — roles cycle
 // ============================================================
+// ============================================================
+// Typing effect — roles cycle
+// ============================================================
 const typingEl = document.getElementById('typingText');
 const roles = [
   'Business Analyst/Consultant',
-  'AI-Assisted Process Optimizer'
+  'AI-Assisted Process Optimizer',
   'ServiceNow Developer',
   'ServiceNow CSA & CAD Certified',
   'Requirements Engineer',
   'Agile & Waterfall Practitioner',
-  'UAT & Traceability Specialist',
+  'UAT & Traceability Specialist'
 ];
 
 if (typingEl) {
@@ -103,7 +106,6 @@ if (typingEl) {
     })();
   }
 }
-
 // ============================================================
 // Count-up stats
 // ============================================================
